@@ -51,9 +51,10 @@ Attempt 3/7 - Enter your guess: 37
 
 - [ ] Add difficulty levels (easy/medium/hard with different ranges)
 - [ ] Track best score across sessions
-- [ ] Add a hint system
+- [ ] Add a hint system in that
 
 ## License
+
 
 This project is licensed under the MIT License.
 
